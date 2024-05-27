@@ -1,0 +1,121 @@
+     STATISTICA DI AFFIDABILITA'    
+		13497	Rover 22
+
+B_STATAFF
+
+	A_01=99553690
+	MP_01=0
+	Macchina accesa         		 27653h 48m 10s
+
+	A_02=64079351
+	MP_02=0
+	Macchina in emergenza   		 17799h 49m 11s
+
+	A_03=2187025
+	MP_03=0
+	Macchina in manuale     		   607h 30m 25s
+
+	A_04=26561
+	MP_04=0
+	Macchina in MDI         		     7h 22m 41s
+
+	A_05=225894
+	MP_05=0
+	Macchina in azz.automat.		    62h 44m 54s
+
+	A_06=32592048
+	MP_06=0
+	Macchina in automatico  		  9053h 20m 48s
+
+	A_07=434576
+	MP_07=0
+	Macchina in attrezzaggio		   120h 42m 56s
+
+	A_08=19433950
+	MP_08=0
+	Assi in moto            		  5398h 19m 10s
+
+	A_09=9226958
+	MP_09=0
+	Macchina in lav.foratura		  2563h  2m 38s
+
+	A_10=9436209
+	MP_10=0
+	Macchina in lav.pantogr.		  2621h 10m  9s
+
+	A_11=393174
+	MP_11=0
+	Numero pannelli         	393174	
+
+	A_12=52858382
+	MP_12=0
+	Pompa vuoto 1          		 14682h 53m  2s
+
+	A_13=3929
+	MP_13=0
+	Pompa vuoto 2          		     1h  5m 29s
+
+	A_14=18444123
+	MP_14=0
+	Range inverter1 MIN     		  5123h 22m  3s
+
+	A_15=0
+	MP_15=0
+	Range inverter1 MED     		     0h  0m  0s
+
+	A_16=0
+	MP_16=0
+	Range inverter1 MAX     		     0h  0m  0s
+
+	A_17=0
+	MP_17=0
+	Range inverter1 EXTRA   		     0h  0m  0s
+
+	A_18=0
+	MP_18=0
+	Range inverter2 MIN     		     0h  0m  0s
+
+	A_19=0
+	MP_19=0
+	Range inverter2 MED     		     0h  0m  0s
+
+	A_20=0
+	MP_20=0
+	Range inverter2 MAX     		     0h  0m  0s
+
+	A_21=0
+	MP_21=0
+	Range inverter2 EXTRA   		     0h  0m  0s
+
+	A_22=8016774
+	MP_22=0
+	Pantografo 1           		  2226h 52m 54s
+
+	A_23=1542427
+	MP_23=0
+	Pantografo 2           		   428h 27m  7s
+
+	A_24=1542299
+	MP_24=0
+	Pantografo 3           		   428h 24m 59s
+
+	A_28=0
+	MP_28=0
+	Cambi mag.bordo macchina	0	
+
+	A_29=0
+	MP_29=0
+	Cambi mag.bordo carro   	0	
+
+	A_30=0
+	MP_30=0
+	Ciclo lub. 1            	0	
+
+	A_31=0
+	MP_31=0
+	Ciclo lub. 2            	0	
+
+	A_32=0
+	MP_32=0
+	Test seriale            	0	
+E_STATAFF

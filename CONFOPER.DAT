@@ -1,0 +1,55 @@
+
+
+B_CON
+S_CON
+	B_EVEN
+		COD=01
+		EVEN="Attrezzaggio            "
+		IND=01
+		TIPOE=0
+		TIPOS=2
+	E_EVEN
+	B_EVEN
+		COD=02
+		EVEN="Programmazione          "
+		IND=01
+		TIPOE=0
+		TIPOS=2
+	E_EVEN
+	B_EVEN
+		COD=03
+		EVEN="Controllo lavorazioni   "
+		IND=01
+		TIPOE=0
+		TIPOS=2
+	E_EVEN
+	B_EVEN
+		COD=04
+		EVEN="Manutenzione ordinaria  "
+		IND=01
+		TIPOE=0
+		TIPOS=2
+	E_EVEN
+	B_EVEN
+		COD=05
+		EVEN="Manuten. straordinaria  "
+		IND=01
+		TIPOE=0
+		TIPOS=2
+	E_EVEN
+	B_EVEN
+		COD=06
+		EVEN="Pausa autorizzata       "
+		IND=01
+		TIPOE=0
+		TIPOS=2
+	E_EVEN
+	B_EVEN
+		COD=07
+		EVEN="Mancanza materiale      "
+		IND=01
+		TIPOE=0
+		TIPOS=2
+	E_EVEN
+END
+E_CON

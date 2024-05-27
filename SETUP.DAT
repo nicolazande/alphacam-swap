@@ -1,0 +1,14 @@
+
+SET_UP
+	CONTR=42 BCKLGHT=30
+	FILEM="1" FILEP="1"
+	BS="Macro file BSM1" "Macro file BSM2" "Macro file BSM3" "Macro file BSM4" "Macro file BSM5" "Macro file BSM6" "Macro file BSM7" "Macro file BSM8" "Macro file BSM9" "Macro file BSM10" 
+	MF="Macro file MF1" "Macro file MF2" "Macro file MF3" "Macro file MF4" "Macro file MF5" "Macro file MF6" "Macro file MF7" "Macro file MF8" "Macro file MF9" "Macro file MF10" "Macro file MF11" "Macro file MF12" "Macro file MF13" "Macro file MF14" "Macro file MF15" "Macro file MF16" "Macro file MF17" "Macro file MF18" "Macro file MF19" "Macro file MF20" "Macro file MF21" "Macro file MF22" "Macro file MF23" "Macro file MF24" "Macro file MF25" "Macro file MF26" "Macro file MF27" "Macro file MF28" 
+	SP=1 L=1 R=200000 DPRF=190000
+	RAC=1 ANG=50 ORI=1 STRET=0 RUOTE=2 ACC=0 LINGUA=37 GLOB=1 FONTSPEC=0
+	NLAV=5000 NFORI=1000 NFORIOTT=2000 NISO=5000 NCAD=200
+	AG=1 SER=0 VM=0 NAX=4
+	LOGO="BIESSE SpA" 
+	DIRPAN="E:\" 
+	DIRISO="E:\" 
+END

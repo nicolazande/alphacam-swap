@@ -1,0 +1,36 @@
+
+
+B_MP
+S_MP
+	B_EVEN
+		COD=8
+		EVEN="Testa a forare          "
+		ORE=100
+	E_EVEN
+	B_EVEN
+		COD=11
+		EVEN="Pompa vuoto 1          "
+		ORE=80
+	E_EVEN
+	B_EVEN
+		COD=12
+		EVEN="Pompa vuoto 2          "
+		ORE=40
+	E_EVEN
+	B_EVEN
+		COD=21
+		EVEN="Pantografo 1           "
+		ORE=100
+	E_EVEN
+	B_EVEN
+		COD=22
+		EVEN="Pantografo 2           "
+		ORE=100
+	E_EVEN
+	B_EVEN
+		COD=23
+		EVEN="Pantografo 3           "
+		ORE=100
+	E_EVEN
+END
+E_MP

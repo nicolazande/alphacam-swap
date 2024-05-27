@@ -1,0 +1,22 @@
+
+
+ B_PRINC
+  MODFUNZ=0
+ E_DATI
+
+ B_SETRS232
+  NBIT=8
+  STBIT=1
+  PARITY=0
+  TRSPEED=9600
+ E_DATI
+
+ B_CARPROG
+  IN=0
+  FN=4
+  IQ=5
+  FQ=6
+  IC=7
+  FC=9
+  NC=10
+ E_DATI
